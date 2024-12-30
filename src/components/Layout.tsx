@@ -18,7 +18,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         {/* Sidebar */}
         <div className="w-64 bg-primary p-4">
           <div className="mb-8">
-            <h1 className="text-xl font-bold text-white">WireMesh Pro</h1>
+            <h1 className="text-xl font-bold text-white">JRG Pro</h1>
           </div>
           <nav className="space-y-2">
             {navigation.map((item) => {
